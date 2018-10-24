@@ -9,7 +9,6 @@ def oneEditInsert(string1, string2):
 	i = 0
 	j = 0
 	while j < len2:
-		print(j)
 		if i == len2-1 and not cannot_modify_anymore:	
 			return True
 		elif i == len2-1 and cannot_modify_anymore:
