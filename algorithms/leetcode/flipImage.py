@@ -37,4 +37,3 @@ class Solution:
                     A[x][y] = 0
                     
         return A
-        
